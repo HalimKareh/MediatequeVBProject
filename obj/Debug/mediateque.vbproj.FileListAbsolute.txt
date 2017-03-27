@@ -1,0 +1,18 @@
+C:\Users\User\Documents\Visual Studio 2008\Projects\Prog2\mediateque\mediateque\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2008\Projects\Prog2\mediateque\mediateque\obj\Debug\mediateque.Resources.resources
+C:\Users\User\Documents\Visual Studio 2008\Projects\Prog2\mediateque\mediateque\obj\Debug\mediateque.vbproj.GenerateResource.Cache
+C:\Users\User\Documents\Visual Studio 2008\Projects\Prog2\mediateque\mediateque\bin\Debug\mediateque.exe
+C:\Users\User\Documents\Visual Studio 2008\Projects\Prog2\mediateque\mediateque\bin\Debug\mediateque.pdb
+C:\Users\User\Documents\Visual Studio 2008\Projects\Prog2\mediateque\mediateque\bin\Debug\mediateque.xml
+C:\Users\User\Documents\Visual Studio 2008\Projects\Prog2\mediateque\mediateque\obj\Debug\mediateque.exe
+C:\Users\User\Documents\Visual Studio 2008\Projects\Prog2\mediateque\mediateque\obj\Debug\mediateque.xml
+C:\Users\User\Documents\Visual Studio 2008\Projects\Prog2\mediateque\mediateque\obj\Debug\mediateque.pdb
+Z:\mediateque\mediateque\obj\Debug\mediateque.exe
+Z:\mediateque\mediateque\obj\Debug\mediateque.xml
+Z:\mediateque\mediateque\obj\Debug\mediateque.pdb
+Z:\mediateque\mediateque\bin\Debug\mediateque.exe
+Z:\mediateque\mediateque\bin\Debug\mediateque.pdb
+Z:\mediateque\mediateque\bin\Debug\mediateque.xml
+Z:\mediateque\mediateque\obj\Debug\ResolveAssemblyReference.cache
+Z:\mediateque\mediateque\obj\Debug\mediateque.Resources.resources
+Z:\mediateque\mediateque\obj\Debug\mediateque.vbproj.GenerateResource.Cache
